@@ -1,4 +1,4 @@
-# Joel_BED_LabRestAPI
+# BED-RestAPI-Lab6
 
 Spring Boot based MVC web project to perform CRUD operations along with Spring security - Role Based Authentication.
 
